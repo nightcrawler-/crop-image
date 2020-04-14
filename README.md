@@ -17,7 +17,7 @@ dependencies {
 	        implementation 'com.github.nightcrawler-:crop-image:Tag'
 	}
 ```
-3. Add to your manifes
+3. Add to your AndroidManifest.xml
 ```
 <activity
     android:name="com.cafrecode.imagecrop.CropImageActivity"
