@@ -7,7 +7,7 @@
         android:icon="@drawable/crop_image_menu_rotate_left"
         android:title="@string/crop_image_menu_rotate_left"
         android:visible="false"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/crop_image_menu_rotate_right"
         android:icon="@drawable/crop_image_menu_rotate_right"
